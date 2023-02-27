@@ -1,2 +1,2 @@
 # Bank-Movimentation-System-in-C
-Uso de arquivos para controlar transações em uma conta bancária
+Utilização de arquivos binários e de texto para criar um sistema de movimentação bancária com armazenamento das informações em binária...
